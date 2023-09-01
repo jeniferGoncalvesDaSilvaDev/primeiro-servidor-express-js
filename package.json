@@ -1,0 +1,22 @@
+{
+  "name": "primeiro-servidor-express",
+  "version": "0.0.1",
+  "description": "Primeiro servidor com Node Js, usando Express JS na aula da Cubos Academy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeniferGoncalvesDaSilvaDev/primeiro-servidor-express-js.git"
+  },
+  "author": "Jenifer Gonçalves da Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeniferGoncalvesDaSilvaDev/primeiro-servidor-express-js/issues"
+  },
+  "homepage": "https://github.com/jeniferGoncalvesDaSilvaDev/primeiro-servidor-express-js#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
