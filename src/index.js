@@ -8,5 +8,10 @@ app.get('/home', (requisicao, resposta) =>{
 
 
 });
+app.get('/', (requisicao, resposta) =>{
+    resposta.send('Essa é minha rota principal');
+ 
+
+});
 //a rota vai ate a porta logica 3000
 app.listen(3000)
